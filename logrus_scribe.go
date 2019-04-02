@@ -6,7 +6,7 @@ import (
     "net"
     "os"
 
-    "github.com/Sirupsen/logrus"
+    "github.com/sirupsen/logrus"
     "github.com/samuel/go-thrift/examples/scribe"
     "github.com/samuel/go-thrift/thrift"
 )
