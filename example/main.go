@@ -1,7 +1,7 @@
 package main
 
 import (
-  log "github.com/Sirupsen/logrus"
+  log "github.com/sirupsen/logrus"
   scribelog "github.com/sagar8192/logrus-scribe-hook"
 )
 
